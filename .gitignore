@@ -18,3 +18,7 @@ desktop.ini
 控制台信息
 debug.log
 console-output.txt
+
+# 本地上下文文件（不上传GitHub）
+PROJECT_CONTEXT.md
+SESSION_CONTEXT.md
