@@ -13,3 +13,8 @@ desktop.ini
 # 临时文件
 *.log
 *.tmp
+
+# 调试文件
+控制台信息
+debug.log
+console-output.txt
