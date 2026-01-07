@@ -1,0 +1,457 @@
+main.tsx-4Arvcn_7.js:536 已清除控制台
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+ 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+ 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+ 选择器 5 (.item) 找到 0 个元素
+ 选择器 6 (article) 找到 0 个元素
+ 选择器 7 (div[data-type="post"]) 找到 0 个元素
+ 找到可能包含帖子内容的容器: 0
+ 页面上的按钮总数: 4
+ 可能的操作区域数量: 1
+ 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+ 开始查找帖子元素...
+ 选择器 1 (.timeline-item) 找到 0 个元素
+ 选择器 2 (.feed-item) 找到 0 个元素
+ 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
+content.js:81 页面内容发生变化，新增节点数量: 1
+content.js:26 开始查找帖子元素...
+content.js:41 选择器 1 (.timeline-item) 找到 0 个元素
+content.js:41 选择器 2 (.feed-item) 找到 0 个元素
+content.js:41 选择器 3 ([class*="post-"]) 找到 1 个元素
+content.js:44 第一个匹配元素的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" class="jk-1b6ad0f"><path d="M4 12h16m-8-8v16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></svg></main></button></div>...
+content.js:41 选择器 4 ([class*="timeline-"]) 找到 0 个元素
+content.js:41 选择器 5 (.item) 找到 0 个元素
+content.js:41 选择器 6 (article) 找到 0 个元素
+content.js:41 选择器 7 (div[data-type="post"]) 找到 0 个元素
+content.js:58 找到可能包含帖子内容的容器: 0
+content.js:66 页面上的按钮总数: 4
+content.js:69 可能的操作区域数量: 1
+content.js:71 第一个操作区域的HTML结构: <div class="jk-circle-btn-wrapper create-post-button jk-e0dnmk"><button class="jk-circle-btn jk-circle-btn-primary jk-circle-btn-sm css-131gqwv-jk-circle-btn" type="button" role="button" aria-label="创建动态"><main class="jk-circle-btn-icon-wrapper"><svg fill="none" xmlns="http://www.w3.org/2000/svg" vi...
