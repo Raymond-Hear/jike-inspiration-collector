@@ -73,9 +73,19 @@ Jike_Inspiration_Collector/
 ├── popup.js              # 管理界面逻辑
 ├── styles.css            # 样式文件
 ├── images/               # 图标资源
+├── README.md             # 项目说明
+├── CHANGELOG.md          # 📋 更新日志
+├── TODO.md               # ✅ 待办事项
 ├── requirements.md       # 需求库文档
-└── README.md             # 本文档
+└── TEST_GUIDE.md         # 测试指南
 ```
+
+## 📚 文档导航
+
+- 📋 [更新日志 (CHANGELOG)](CHANGELOG.md) - 查看每个版本的更新内容
+- ✅ [待办事项 (TODO)](TODO.md) - 查看计划中的功能和待修复的问题
+- 📖 [需求文档](requirements.md) - 查看详细的功能需求
+- 🧪 [测试指南](TEST_GUIDE.md) - 查看测试清单
 
 ## 🛠️ 技术栈
 
@@ -83,18 +93,22 @@ Jike_Inspiration_Collector/
 - **存储**：Chrome Extension Storage API
 - **样式**：CSS3
 
-## 🎯 MVP范围
+## 🎯 当前版本
 
-当前版本（v1.0）包含：
+**版本号**：v0.0.1
+**发布日期**：2025-01-08
 
-### ✅ 开发中
-- [ ] 在即刻动态底部添加[💡 灵感]按钮
-- [ ] 分类收集（需求洞察/干货分享/洞见思考）
-- [ ] 本地存储灵感
-- [ ] 查看灵感列表
-- [ ] 导出为Markdown/JSON
+### ✅ 已实现功能
+- ✅ 在即刻动态底部添加[💡 灵感]按钮
+- ✅ 分类收集（需求洞察/干货分享/洞见思考）
+- ✅ 本地存储灵感
+- ✅ 查看灵感列表（支持筛选和搜索）
+- ✅ 导出为Markdown/JSON
+- ✅ 统计功能
+- ✅ 空心黄色边框设计
 
-详见 [requirements.md](requirements.md)
+### 📋 下个版本计划
+详见 [TODO.md](TODO.md)
 
 ## 📝 使用场景
 
@@ -140,6 +154,6 @@ MIT License
 
 ---
 
-**最后更新**：2025-01-07  
-**当前版本**：v1.0 MVP  
-**维护者**：聆风 & Claude
+**最后更新**：2025-01-08
+**当前版本**：v0.0.1
+**维护者**：聆风 (Raymond) & Claude
