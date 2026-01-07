@@ -18,8 +18,8 @@
     }
     
     .header {
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: white;
+      background: #FFE411;
+      color: #333;
       padding: 20px;
       text-align: center;
     }
@@ -56,14 +56,14 @@
     }
     
     .filter-btn:hover {
-      border-color: #667eea;
-      color: #667eea;
+      border-color: #FFE411;
+      color: #FFE411;
     }
-    
+
     .filter-btn.active {
-      background: #667eea;
-      color: white;
-      border-color: #667eea;
+      background: #FFE411;
+      color: #333;
+      border-color: #FFE411;
     }
     
     .search-box {
@@ -82,7 +82,7 @@
     
     .search-box input:focus {
       outline: none;
-      border-color: #667eea;
+      border-color: #FFE411;
     }
     
     .inspiration-list {
@@ -221,18 +221,18 @@
     }
     
     .footer-btn:hover {
-      border-color: #667eea;
-      color: #667eea;
+      border-color: #FFE411;
+      color: #FFE411;
     }
-    
+
     .footer-btn.primary {
-      background: #667eea;
-      color: white;
-      border-color: #667eea;
+      background: #FFE411;
+      color: #333;
+      border-color: #FFE411;
     }
-    
+
     .footer-btn.primary:hover {
-      background: #764ba2;
+      background: #FFD700;
     }
 
     .credits {
@@ -245,12 +245,34 @@
     }
 
     .credits a {
-      color: #667eea;
+      color: #FFB800;
       text-decoration: none;
       font-weight: 500;
     }
 
     .credits a:hover {
+      text-decoration: underline;
+    }
+
+    .changelog {
+      padding: 12px 16px;
+      text-align: center;
+      font-size: 11px;
+      color: #999;
+      background: white;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    .changelog a {
+      color: #FFB800;
+      text-decoration: none;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .changelog a:hover {
       text-decoration: underline;
     }
 
@@ -300,6 +322,13 @@
 
   <div class="credits">
     Powered by <a href="https://okjk.co/q8Fhdn" target="_blank">聆风Raymond</a> × Claude
+  </div>
+
+  <div class="changelog">
+    📋 当前版本：v0.0.1 |
+    <a href="https://github.com/Raymond-Hear/jike-inspiration-collector/blob/main/CHANGELOG.md" target="_blank">
+      查看更新日志 →
+    </a>
   </div>
 
   <script src="popup.js"></script>
