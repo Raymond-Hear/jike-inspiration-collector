@@ -900,10 +900,18 @@ function injectButtons() {
           break;
         }
 
+        // 检查容器是否有足够的内容（不是空的按钮包装容器）
+        const textLength = container.innerText?.length || 0;
+        if (textLength < 50) {
+          console.log('⏭️  跳过内容太少的容器，长度:', textLength);
+          break;
+        }
+
         // 添加到按钮组列表
         if (!buttonGroups.includes(container)) {
           buttonGroups.push(container);
           processedContainers.add(container);
+          console.log('✅ 找到有效按钮组，内容长度:', textLength);
         }
 
         break;
